@@ -3,6 +3,7 @@
 
 ## pip install streamlit
 ## pip install pandas
+## pip install pandas matplotlib seaborn scikit-lear
 ## Para executar o código, rode o arquivo Executa_Analise.bat certifique-se de ajustar o caminho conforme a instalação específica do Python na sua máquina.
 
 
