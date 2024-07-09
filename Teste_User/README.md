@@ -11,7 +11,7 @@ Certifique-se de ter os seguintes pacotes instalados:
 - pandas
 - matplotlib
 - streamlit
-- plotly
+- plotting
 
 Você pode instalar todos os pacotes necessários utilizando o arquivo `requirements.txt` fornecido.
 
@@ -49,12 +49,17 @@ O projeto realiza as seguintes tarefas:
 
 ### 4. Estrutura do Repositório
 
-├── README.md                   # Arquivo de documentação
-├── AnaliseDados.py             # Script principal usando Streamlit
-├── vendas_cursos.csv           # Arquivo CSV com dados de vendas de cursos
-├── plotting.py                 # Arquivo com funções para criação de gráficos
-├── Executa_Analise.bat         # Arquivo .bat para executar o Streamlit (Windows)
-└── requirements.txt            # Arquivo de dependências
+├── README.md # Arquivo de documentação
+
+├── AnaliseDados.py # Script principal usando Streamlit
+
+├── vendas_cursos.csv # Arquivo CSV com dados de vendas de cursos
+
+├── plotting.py # Arquivo com funções para criação de gráficos
+
+├── Executa_Analise.bat # Arquivo .bat para executar o Streamlit (Windows)
+
+├── requirements.txt # Arquivo de dependências
 
 ### 5. Como Contribuir
 
@@ -71,7 +76,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ## Resultados e Conclusões
 
 - **Receita Total**: R$ 2097.50.
-- **Curso Mais Vendido**: Desenvolvimento Web com HTML e CSS.
+- **Curso Mais Vendido**: Introdução a Programação em Python.
 - **Estatísticas Descritivas dos Preços**:
   - Média: R$ 83.90.
   - Mediana: R$ 79.90.
