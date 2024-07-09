@@ -6,11 +6,16 @@ Este projeto realiza uma análise exploratória dos dados de vendas de cursos on
 
 ### 1. Pré-requisitos
 
-Certifique-se de ter Python instalado. Você pode instalar as bibliotecas necessárias utilizando pip:
+Certifique-se de ter os seguintes pacotes instalados:
 
-- pip install plotting
-- pip install streamlit
-- pip install pandas matplotlib seaborn scikit-lear
+- pandas
+- matplotlib
+- streamlit
+- plotly
+
+Você pode instalar todos os pacotes necessários utilizando o arquivo `requirements.txt` fornecido.
+
+pip install -r requirements.txt 
 
 ### 2. Executando o Projeto
 
@@ -44,12 +49,12 @@ O projeto realiza as seguintes tarefas:
 
 ### 4. Estrutura do Repositório
 
-- |-- README.md
-- |-- AnaliseDados.py # Script principal usando Streamlit
-- |-- vendas_cursos.csv # Arquivo CSV com dados de vendas de cursos
-- |-- plotting.py # Arquivo com funções para criação de gráficos
-- |-- Executa_Analise.bat # Arquivo .bat para executar o Streamlit (Windows)
-
+├── README.md                   # Arquivo de documentação
+├── AnaliseDados.py             # Script principal usando Streamlit
+├── vendas_cursos.csv           # Arquivo CSV com dados de vendas de cursos
+├── plotting.py                 # Arquivo com funções para criação de gráficos
+├── Executa_Analise.bat         # Arquivo .bat para executar o Streamlit (Windows)
+└── requirements.txt            # Arquivo de dependências
 
 ### 5. Como Contribuir
 
@@ -75,3 +80,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
   - Desvio Padrão: R$ 21.98.
 
 Este projeto proporciona uma análise detalhada das vendas de cursos online, oferecendo insights valiosos através de visualizações interativas. Para mais detalhes, consulte a documentação completa e o código-fonte disponível neste repositório.
+
+## Deploy 
+
+[Meu Desploy de Analise de Dados](https://ltsilva23-trilhadadosjr-jun15-teste-useranalisedados-hswj4y.streamlit.app/)
