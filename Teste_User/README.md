@@ -57,7 +57,7 @@ Fique à vontade para contribuir com novas funcionalidades, melhorias de código
 
 ### 6. Autor
 
-[Larissa Thalia]https://github.com/ltsilva23)
+[Larissa Thalia](https://github.com/ltsilva23)
 
 ### 7. Licença
 
