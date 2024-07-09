@@ -43,7 +43,7 @@ resultados = pd.DataFrame({
 
 # Calcular as métricas necessárias dos cursos
 num_cursos_vendidos = df['Quantidade de Vendas'].sum()
-curso_mais_vendido = df['Nome do Curso'].value_counts().idxmax()
+curso_mais_vendido = df.groupby('Nome do Curso')['Quantidade de Vendas'].sum().idxmax()
 
 # Criar um DataFrame com os resultados dos cursos vendidos
 resultados_vendidos = pd.DataFrame({
