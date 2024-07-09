@@ -8,9 +8,9 @@ Este projeto realiza uma análise exploratória dos dados de vendas de cursos on
 
 Certifique-se de ter Python instalado. Você pode instalar as bibliotecas necessárias utilizando pip:
 
-- **pip install plotting
-- **pip install streamlit
-- **pip install pandas matplotlib seaborn scikit-lear
+- pip install plotting
+- pip install streamlit
+- pip install pandas matplotlib seaborn scikit-lear
 
 ### 2. Executando o Projeto
 
@@ -44,7 +44,7 @@ O projeto realiza as seguintes tarefas:
 
 ### 4. Estrutura do Repositório
 
-|-- README.md\n
+|-- README.md
 |-- AnaliseDados.py # Script principal usando Streamlit\n
 |-- vendas_cursos.csv # Arquivo CSV com dados de vendas de cursos\n
 |-- plotting.py # Arquivo com funções para criação de gráficos\n
