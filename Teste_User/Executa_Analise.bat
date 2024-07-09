@@ -1,0 +1,1 @@
+%USERPROFILE%\AppData\Local\Programs\Python\Python312\Scripts\streamlit.exe run AnaliseDados.py
