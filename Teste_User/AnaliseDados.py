@@ -6,11 +6,14 @@
 ## pip install plotting
 ## Para executar o código, rode o arquivo Executa_Analise.bat certifique-se de ajustar o caminho conforme a instalação específica do Python na sua máquina.
 
-
+import os
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
 import plotting
+
+# Defina o diretório de trabalho para o diretório do script
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # Lendo o arquivo csv
 df = pd.read_csv('vendas_cursos.csv')
