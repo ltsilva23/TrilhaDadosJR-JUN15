@@ -44,11 +44,11 @@ O projeto realiza as seguintes tarefas:
 
 ### 4. Estrutura do Repositório
 
-|-- README.md
-|-- AnaliseDados.py # Script principal usando Streamlit\n
-|-- vendas_cursos.csv # Arquivo CSV com dados de vendas de cursos\n
-|-- plotting.py # Arquivo com funções para criação de gráficos\n
-|-- Executa_Analise.bat # Arquivo .bat para executar o Streamlit (Windows)
+- |-- README.md
+- |-- AnaliseDados.py # Script principal usando Streamlit
+- |-- vendas_cursos.csv # Arquivo CSV com dados de vendas de cursos
+- |-- plotting.py # Arquivo com funções para criação de gráficos
+- |-- Executa_Analise.bat # Arquivo .bat para executar o Streamlit (Windows)
 
 
 ### 5. Como Contribuir
