@@ -17,7 +17,7 @@ Disponível para visualização em: [Análise de Dados: Vendas de Cursos Online]
 
 ## Estrutura do Projeto:
 projeto/
-│
+
 ├── Executa_Analise.bat       # Script para executar a análise
 ├── README.md                 # Este arquivo
 ├── plotting.py               # Script com funções de plotagem
