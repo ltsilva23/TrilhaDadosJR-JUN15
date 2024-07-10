@@ -83,13 +83,13 @@ with st.expander("Estatísticas Descritivas"):
 st.header('Gráficos')
 
 st.subheader('Gastos por Curso')
-st.plotly_chart(fig_barra_curso, use_container_width=True)
+st.pyplot(fig_barra_curso, use_container_width=True)
 
 st.subheader('Valor Total Gasto ao Longo do Tempo')
-st.plotly_chart(fig_linha,use_container_width=True)
+st.pyplot(fig_linha,use_container_width=True)
 
 st.subheader('Ranking dos Cursos Mais Vendidos')
-st.plotly_chart(fig_ranking_vendas, use_container_width=True)
+st.pyplot(fig_ranking_vendas, use_container_width=True)
 
 # Seção de Informações Gerais
 st.header('Informações Gerais')
