@@ -19,13 +19,17 @@ Disponível para visualização em: [Análise de Dados: Vendas de Cursos Online]
 projeto/
 │
 ├── Executa_Analise.bat       # Script para executar a análise
+
 ├── README.md                 # Este arquivo
+
 ├── plotting.py               # Script com funções de plotagem
+
 ├── vendas_cursos.csv         # Arquivo CSV com dados de vendas de cursos
+
 └── AnaliseDados.py           # Script principal para análise de dados
 
    #### Análise de Dados: Vendas de Cursos Online
-   ![Demonstração](imagens/Gráfico_cursos.png)
+   [Demonstração](imagens/Gráfico_cursos.png)
 
 ## Desafios Propostos:
    1. Calcular a receita total gerada pela venda dos cursos.
