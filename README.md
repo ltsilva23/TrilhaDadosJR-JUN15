@@ -3,7 +3,7 @@
 # 📚 Trilha Inicial Ciência de Dados Jr
 Este projeto realiza uma análise exploratória dos dados de vendas de cursos online, utilizando Python com as bibliotecas Pandas, Matplotlib, Streamlit e Plotly para visualização interativa.
 
-Disponível para visualização em: [Análise de Dados: Vendas de Cursos Online]()
+Disponível para visualização em: [Análise de Dados: Vendas de Cursos Online](https://trilhadadosjr-jun15-python-dados-cursos.streamlit.app/)
 
 ## Requisitos Funcionais:
 
@@ -17,7 +17,7 @@ Disponível para visualização em: [Análise de Dados: Vendas de Cursos Online]
 
 ## Estrutura do Projeto:
 projeto/
-
+│
 ├── Executa_Analise.bat       # Script para executar a análise
 ├── README.md                 # Este arquivo
 ├── plotting.py               # Script com funções de plotagem
@@ -25,7 +25,7 @@ projeto/
 └── AnaliseDados.py           # Script principal para análise de dados
 
    #### Análise de Dados: Vendas de Cursos Online
-   ![Demonstração](images/Gráfico_cursos.png)
+   ![Demonstração](imagens/Gráfico_cursos.png)
 
 ## Desafios Propostos:
    1. Calcular a receita total gerada pela venda dos cursos.
@@ -37,7 +37,7 @@ projeto/
 2. **Instalar Bibliotecas:** Utilize o comando `pip install streamlit` `pip install pandas matplotlib seaborn scikit-learn`
 `pip install plotting` para instalar as bibliotecas necessárias. Você pode instalar todos os pacotes necessários utilizando o arquivo `requirements.txt` fornecido.
 
-pip install -r requirements.txt 
+   pip install -r requirements.txt 
 
 4. **Criar Repositório no GitHub:** Crie um repositório público para o projeto.
 5. **Clonar o Repositório:** Clone o repositório para a sua máquina local e configure o ambiente de trabalho. Exemplo:
