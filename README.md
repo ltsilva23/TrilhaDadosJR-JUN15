@@ -17,7 +17,8 @@ Disponível para visualização em: [Análise de Dados: Vendas de Cursos Online]
 
 ## Estrutura do Projeto:
 projeto/
-│
+
+
 ├── Executa_Analise.bat       # Script para executar a análise
 
 ├── README.md                 # Este arquivo
@@ -29,7 +30,7 @@ projeto/
 └── AnaliseDados.py           # Script principal para análise de dados
 
    #### Análise de Dados: Vendas de Cursos Online
-   [Demonstração](imagens/Gráfico_cursos.png)
+   [Demonstração](Desafio/imagens/Gráfico_cursos.png)
 
 ## Desafios Propostos:
    1. Calcular a receita total gerada pela venda dos cursos.
@@ -46,11 +47,11 @@ projeto/
 4. **Criar Repositório no GitHub:** Crie um repositório público para o projeto.
 5. **Clonar o Repositório:** Clone o repositório para a sua máquina local e configure o ambiente de trabalho. Exemplo:
 
-git clone https://github.com/seu-usuario/TrilhaDadosJR-JUN15.git
+   git clone https://github.com/seu-usuario/TrilhaDadosJR-JUN15.git
 
-cd nome-do-repositorio
+   cd nome-do-repositorio
 
-### **Execução do Projeto:***
+### Execução do Projeto:
 Certifique-se de que o arquivo plotting.py esteja no mesmo diretório do script principal.
 
 - **Execução via streamlit**:
@@ -59,10 +60,10 @@ Certifique-se de que o arquivo plotting.py esteja no mesmo diretório do script 
 
 - **Execução via arquivo .bat**: Se estiver usando Windows, você pode executar o arquivo `Executa_Analise.bat` para iniciar o Streamlit, certifique-se de ajustar o caminho conforme a instalação específica do Python na sua máquina. Por exemplo:
 
-"%USERPROFILE%\AppData\Local\Programs\Python\Python312\Scripts\streamlit.exe" run AnaliseDados.py
+   "%USERPROFILE%\AppData\Local\Programs\Python\Python312\Scripts\streamlit.exe" run AnaliseDados.py
 
 ### Documentação Adicional
-Para mais detalhes sobre o funcionamento do código e as análises realizadas, consulte o arquivo [Analise de dados](AnaliseDados.py)  e os scripts adicionais no diretório do projeto.
+Para mais detalhes sobre o funcionamento do código e as análises realizadas, consulte o arquivo [Analise de dados](Desafio/AnaliseDados.py)  e os scripts adicionais no diretório do projeto.
 
 ---
 
@@ -70,7 +71,7 @@ Para mais detalhes sobre o funcionamento do código e as análises realizadas, c
 [Larissa Thalia](https://github.com/ltsilva23)
 
 ### Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](Desafio/LICENSE) para mais detalhes.
 
 ### Como Contribuir
 
