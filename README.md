@@ -30,8 +30,8 @@ projeto/
 └── AnaliseDados.py           # Script principal para análise de dados
 
    #### Análise de Dados: Vendas de Cursos Online
-   ![image](Desafio/imagens/Gráfico_cursos.png)
-
+  ![Gráfico de Cursos](Desafio/imagens/Gráfico_cursos.png)
+  
 ## Desafios Propostos:
    1. Calcular a receita total gerada pela venda dos cursos.
    2. Identificar o curso com o maior número de vendas.
