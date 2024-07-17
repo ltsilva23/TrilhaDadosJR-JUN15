@@ -78,12 +78,12 @@ Fique à vontade para contribuir com novas funcionalidades, melhorias de código
 ---
 
 🔗 **Mantenha-se Conectado:**
-- [Discord](https://discord.gg/wzA9FGZHNv)
-- [Website](http://www.codigocertocoders.com.br/)
-- [LinkedIn](https://www.linkedin.com/company/codigocerto/)
+
+- [LinkedIn](https://www.linkedin.com/in/larissa-silva-93452911b)
   
 🌐 **Contato:**
 - Codigo Certo - Email: codigocertocoders@gmail.com
+- [Website - Codigo Certo](http://www.codigocertocoders.com.br/)
 - Larissa - E-mail: ltsilva.ti@gmail.com
 ---
 
